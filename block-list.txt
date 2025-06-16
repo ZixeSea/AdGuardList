@@ -1,0 +1,3 @@
+! Title: ZixeSea AdGuard Home BlockList
+! Updated: 2025-06-16
+! Homepage: https://github.com/ZixeSea/AdGuardList
