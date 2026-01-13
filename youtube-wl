@@ -1,0 +1,73 @@
+! Title: ZixeSea AdGuard Home YouTube WL
+! Updated: 2026-01-13
+! Homepage: https://github.com/ZixeSea/AdGuardList
+
+! =====================================================
+! YouTube Web (core site + history + embeds)
+! =====================================================
+
+@@||youtube.com^
+@@||www.youtube.com^
+@@||m.youtube.com^
+@@||youtu.be^
+
+@@||youtubei.googleapis.com^
+@@||youtube.googleapis.com^
+@@||jnn-pa.googleapis.com^
+@@||clients1.google.com^
+
+@@||googlevideo.com^
+
+@@||ytimg.com^
+@@||i.ytimg.com^
+@@||yt3.googleusercontent.com^
+
+@@||accounts.google.com^
+
+@@||myactivity.google.com^
+@@||history.google.com^
+
+@@||suggestqueries.google.com^
+@@||suggestqueries-clients6.youtube.com^
+
+@@||notifications.googleapis.com^
+
+@@||youtube-nocookie.com^
+
+! =====================================================
+! YouTube Mobile Apps (Android & iOS)
+! =====================================================
+
+@@||youtube.googleapis.com^
+@@||youtubei.googleapis.com^
+@@||googleapis.com^
+
+@@||play.googleapis.com^
+@@||android.clients.google.com^
+
+@@||clients4.google.com^
+
+! Device + network coordination (required for apps)
+@@||connectivitycheck.gstatic.com^
+@@||www.gstatic.com^
+
+! =====================================================
+! YouTube Music (Web + App)
+! =====================================================
+
+@@||music.youtube.com^
+
+@@||music.youtube.googleapis.com^
+@@||youtubei.googleapis.com^
+
+@@||googlevideo.com^
+
+@@||ytimg.com^
+@@||yt3.googleusercontent.com^
+
+@@||suggestqueries.google.com^
+
+@@||accounts.google.com^
+
+@@||myactivity.google.com^
+@@||history.google.com^
