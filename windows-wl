@@ -1,0 +1,33 @@
+! Title: ZixeSea AdGuard Home whitelist
+! Updated: 2026-01-13
+! Homepage: https://github.com/ZixeSea/AdGuardList
+
+! --- Core Windows Update ---
+@@||windowsupdate.microsoft.com^
+@@||update.microsoft.com^
+@@||download.windowsupdate.com^
+@@||wustat.windows.com^
+@@||ntservicepack.microsoft.com^
+
+! --- Windows Update CDN & Delivery ---
+@@||dl.delivery.mp.microsoft.com^
+@@||delivery.mp.microsoft.com^
+@@||download.microsoft.com^
+@@||download.microsoft.com.edgesuite.net^
+
+! --- Update services, auth & telemetry needed for updates ---
+@@||sls.microsoft.com^
+@@||fe2.update.microsoft.com^
+@@||stats.microsoft.com^
+@@||login.live.com^
+
+! --- Microsoft Store & modern Windows components ---
+@@||storeedgefd.dsx.mp.microsoft.com^
+@@||msedge.api.cdp.microsoft.com^
+@@||api.cdp.microsoft.com^
+@@||clientconfig.passport.net^
+
+! --- Microsoft Defender / Security Intelligence updates ---
+@@||wdcp.microsoft.com^
+@@||wd.microsoft.com^
+@@||definitionupdates.microsoft.com^
