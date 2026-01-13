@@ -1,3 +1,0 @@
-! Title: ZixeSea AdGuard Home TLD Block
-! Updated: 2025-06-16
-! Homepage: https://github.com/ZixeSea/AdGuardList
