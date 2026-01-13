@@ -1,0 +1,33 @@
+! Title: ZixeSea AdGuard Home Steam WL
+! Updated: 2026-01-13
+! Homepage: https://github.com/ZixeSea/AdGuardList
+
+! --- Core Steam client & login ---
+@@||steampowered.com^
+@@||steamcommunity.com^
+@@||store.steampowered.com^
+@@||steamcontent.com^
+@@||steamcdn-a.akamaihd.net^
+
+! --- Steam client updates & downloads ---
+@@||content.steampowered.com^
+@@||cdn.akamai.steamstatic.com^
+
+! --- Authentication & session services ---
+@@||login.steampowered.com^
+@@||help.steampowered.com^
+
+! --- Steam Web API / stats / achievements ---
+@@||api.steampowered.com^
+@@||partner.steamgames.com^
+
+! --- Steam Workshop & cloud saves ---
+@@||workshop.steampowered.com^
+@@||steamcommunity-a.akamaihd.net^
+
+! --- Steam download helpers / manifests ---
+@@||download.steampowered.com^
+@@||client-download.steampowered.com^
+
+! --- Optional CDN fallback for heavy downloads (rare) ---
+@@||cdn.store.steampowered.com^
