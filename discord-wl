@@ -1,0 +1,34 @@
+! Title: ZixeSea AdGuard Home Discord WL
+! Updated: 2026-01-13
+! Homepage: https://github.com/ZixeSea/AdGuardList
+
+! --- Discord core API & client ---
+@@||discord.com^
+@@||discordapp.com^
+@@||discordapp.net^
+
+! --- Discord gateways (real-time messaging & voice signaling) ---
+@@||gateway.discord.gg^
+@@||gateway-us-east1-a.discord.gg^
+@@||gateway-us-east1-b.discord.gg^
+@@||gateway-eu-west1-a.discord.gg^
+@@||gateway-eu-west1-b.discord.gg^
+
+! --- Media, attachments & CDN ---
+@@||cdn.discordapp.com^
+@@||media.discordapp.net^
+@@||images-ext-1.discordapp.net^
+@@||images-ext-2.discordapp.net^
+
+! --- Voice, RTC & screen sharing ---
+@@||discord.media^
+@@||discord.gg^
+@@||discord-voice.com^
+
+! --- Updates, builds & downloads ---
+@@||updates.discord.com^
+@@||dl.discordapp.net^
+
+! --- Experiments, settings & client config ---
+@@||clientsettingscdn.discordapp.com^
+@@||remote-auth-gateway.discord.gg^
