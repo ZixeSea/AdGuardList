@@ -1,0 +1,31 @@
+! Title: ZixeSea AdGuard Home Twitch WL
+! Updated: 2026-01-13
+! Homepage: https://github.com/ZixeSea/AdGuardList
+
+! --- Core Twitch website & API ---
+@@||twitch.tv^
+@@||www.twitch.tv^
+@@||api.twitch.tv^
+@@||gql.twitch.tv^
+
+! --- Authentication & account services ---
+@@||passport.twitch.tv^
+@@||id.twitch.tv^
+
+! --- Video delivery (live & VOD) ---
+@@||ttvnw.net^
+@@||video-weaver.*.hls.ttvnw.net^
+
+! --- Chat (IRC over WebSocket) ---
+@@||irc-ws.chat.twitch.tv^
+@@||irc-ws-r.chat.twitch.tv^
+
+! --- Static assets (JS, CSS, images) ---
+@@||static.twitchcdn.net^
+
+! --- Channel Points & Drops ---
+@@||eventsub.twitch.tv^
+@@||pubsub-edge.twitch.tv^
+
+! --- Extensions framework (needed for Drops & Points UI) ---
+@@||extensions.twitch.tv^
